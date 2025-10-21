@@ -1,0 +1,7 @@
+com\garaje\exception\BusinessException.class
+com\garaje\facade\VehiculoFacade.class
+com\uts\taller1\tallergarajeparte2\JakartaRestConfiguration.class
+com\garaje\persistence\VehiculoDAO.class
+com\garaje\controller\VehiculoServlet.class
+com\garaje\model\Vehiculo.class
+com\uts\taller1\tallergarajeparte2\resources\JakartaEE10Resource.class
